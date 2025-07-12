@@ -26,13 +26,13 @@ FileExtensions:
 - webp
 - xht
 - xhtml
-ReleaseDate: 2025-07-04
+ReleaseDate: 2025-07-12
 Installers:
 - Architecture: x64
   InstallerUrl: https://github.com/zen-browser/desktop/releases/download/twilight/zen.installer.exe
-  InstallerSha256: 73B8C05A6038CCACF5195A5C804EA4B0BD734062A686DF37F2FAB6AE0E9BF1E6
+  InstallerSha256: E5FDBE99019249631FA6CE1F008B2250CA7C8ABCA6680C018AD5476D80376ACF
 - Architecture: arm64
   InstallerUrl: https://github.com/zen-browser/desktop/releases/download/twilight/zen.installer-arm64.exe
-  InstallerSha256: C881D7C5982B699E945D1FAFD67EE8A32227C4B2C45ED07318DE0CFE3F7CEDE6
+  InstallerSha256: 61389B372A2F4C641875EB7297300167047DAE48E8248452D91F93A94A85D316
 ManifestType: installer
 ManifestVersion: 1.10.0
